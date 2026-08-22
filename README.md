@@ -51,7 +51,7 @@ The dashboard transforms raw manufacturing data into interactive visualizations 
 
 ![Quality and Downtime](screenshots/quality.png)
 
-> Add your actual Power BI screenshots to the `screenshots/` folder and update the filenames above.
+
 
 ## 📁 Repository Structure
 
@@ -114,11 +114,7 @@ The analysis focuses on identifying:
 * Performance differences across production categories
 * Opportunities for process improvement
 
-## 🔗 Interactive Dashboard
 
-**[View Power BI Dashboard](YOUR_POWER_BI_LINK)**
-
-> Replace the link above with your published Power BI dashboard link.
 
 ## 🚀 How to Use
 
